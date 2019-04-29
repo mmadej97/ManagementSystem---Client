@@ -1,5 +1,5 @@
 # ManagementSystem---Client
-Client side application of people manegement system. Used technologies: Java, JavaFX, JDBC, TCP/IP. 
+Client side application of people management system. Used technologies: Java, JavaFX, JDBC, TCP/IP. 
 
 Employers divide into two categories: managers and normal employers. System knows who is using its through passes given on login screen. The main task which is done through application is taking surveys. Answers are remembered in database.
 
